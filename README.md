@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGzvhNR2Ex66w/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=vWfvRWabDIhuJzNCNjSZ5X-a_a36w5ZVdsOZFXayXfM" width=970px; />
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFL7hTsDnclDg/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=9XzNNYxIUqu6gHtK3E40nXujhd8jYiG__LrdvqbBc8M" width=970px; />
 
  
 [![Twitter Badge](https://img.shields.io/badge/-@elton_lazzarin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elton_lazzarin)](https://twitter.com/elton_lazzarin) [![Linkedin Badge](https://img.shields.io/badge/-Elton%20Lazzarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonlazzarin/)](https://www.linkedin.com/in/eltonlazzarin/) 
