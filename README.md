@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGzvhNR2Ex66w/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=vWfvRWabDIhuJzNCNjSZ5X-a_a36w5ZVdsOZFXayXfM" />
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGzvhNR2Ex66w/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=vWfvRWabDIhuJzNCNjSZ5X-a_a36w5ZVdsOZFXayXfM" width=970px; />
 
 ### Hi there 👋
 
