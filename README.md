@@ -2,7 +2,7 @@
 
 ### Hi there 👋🎉🎉
 
-I'm a **Fullstack Developer** and I'm building amazing stuff at Flysys mainly with Node.js <img src="https://cdn.discordapp.com/emojis/508965931830083585.png?v=1" height="12px" width="12px" />, ReactJS and React Native.
+I'm a **Fullstack Developer** and I'm building amazing stuff at Flysys mainly with Node.js <img src="https://cdn.discordapp.com/emojis/508965931830083585.png?v=1" height="15px" width="15px" />, ReactJS <img src="https://cdn.discordapp.com/emojis/508965900976783371.png?v=1" height="15px" width="15px" /> and React Native.
 
 I really enjoy studying the engineering behind the Front End, Back End and Mobile. I love understanding how the all kind of technology works and how JavaScript is parsed. Love to share knowledge and contribute to free software community.
 
