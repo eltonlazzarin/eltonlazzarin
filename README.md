@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFu9s0QfnCJNw/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=Jo7TV1mbfywLuwLp3Gm5R4RJvj3HD6H4jLtIK6Qw8ZE" width=970px; />
+<img src="https://github.com/eltonlazzarin/eltonlazzarin/blob/master/githubbanner.jpeg" width=970px; />
 
  
 [![Twitter Badge](https://img.shields.io/badge/-@elton_lazzarin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elton_lazzarin)](https://twitter.com/elton_lazzarin) [![Linkedin Badge](https://img.shields.io/badge/-Elton%20Lazzarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonlazzarin/)](https://www.linkedin.com/in/eltonlazzarin/) 
