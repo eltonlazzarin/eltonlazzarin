@@ -12,3 +12,6 @@
 💻 I really enjoy studying the engineering behind the Front End, Back End and Mobile. I love understanding how the all kind of technology works and how JavaScript is parsed. Love to share knowledge and contribute to free software community.
 
 🚀 I am currently improving on TypeScript <img src="https://www.typescriptlang.org/icons/icon-48x48.png?v=e0cca9b778c3248c7434bc3c68c0e8b2" height="17px" width="17px" /> technology, practicing on small personal projects in my spare time.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eltonlazzarin)](https://github.com/anuraghazra/github-readme-stats)
+
