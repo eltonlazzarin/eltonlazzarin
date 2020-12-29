@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/eltonlazzarin">
-  <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eltonlazzarin&show_icons=true&theme=react&include_all_commits=false&count_private=true"/>
+  <img height="180em" width="49%" margin-right="20px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eltonlazzarin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eltonlazzarin&layout=compact&langs_count=8&theme=react&hide=java"/>
 </a>
 </p> 
