@@ -11,7 +11,7 @@
 
 💻 I really enjoy studying the engineering behind the Front End, Back End and Mobile. I love understanding how the all kind of technology works and how JavaScript is parsed. Love to share knowledge and contribute to free software community.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eltonlazzarin&show_icons=true)](https://github.com/eltonlazzarin/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eltonlazzarin&count_private=true&show_icons=true)](https://github.com/eltonlazzarin/github-readme-stats)
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonlazzarin&hide=java)](https://github.com/eltonlazzarin/github-readme-stats)
